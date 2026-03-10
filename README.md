@@ -1,77 +1,76 @@
-🍽️ Food4All – Zero Hunger, Smart Delivery
+# 🍽️ Food4All – Zero Hunger, Smart Delivery
 
-Food4All is a smart food redistribution platform designed to reduce food waste by connecting restaurants with nearby NGOs and animal shelters. The system helps redistribute surplus food efficiently while rewarding contributors and promoting sustainability.
+Food4All is a **smart food redistribution platform** designed to reduce food waste by connecting restaurants with nearby NGOs and animal shelters. The system redistributes surplus food efficiently while rewarding contributors and promoting sustainability.
 
-The project supports the UN Sustainable Development Goals (SDGs) by encouraging responsible food management and minimizing environmental impact.
+This project supports the **UN Sustainable Development Goals (SDGs)** by encouraging responsible food management and minimizing environmental impact.
 
-🚀 Features
+---
 
-🍴 Surplus Food Donation
-Restaurants can donate excess food to nearby NGOs and animal shelters.
+## 🚀 Features
 
-🎁 User Rewards System
-Users receive discounts for contributing to food donation initiatives.
+### 🍴 Surplus Food Donation
+Restaurants can donate excess food to nearby **NGOs and animal shelters** instead of wasting it.
 
-🌱 Restaurant Eco Score
-Restaurants earn an eco-score based on their contribution to reducing food waste.
+### 🎁 User Rewards System
+Users receive **discounts and rewards** for participating in food donation initiatives.
 
-📊 Analytics Dashboard
-Visual insights into donations and sustainability impact using interactive charts.
+### 🌱 Restaurant Eco Score
+Restaurants earn an **eco-score** based on their contribution to reducing food waste and supporting sustainability.
 
-🔗 Smart Food Redistribution
-Connects food providers with organizations in need to minimize food waste.
+### 📊 Analytics Dashboard
+Interactive dashboards provide insights into **food donations and environmental impact**.
 
-🛠️ Tech Stack
+### 🔗 Smart Food Redistribution
+Efficiently connects **food providers with organizations in need**, reducing waste and supporting communities.
 
-Frontend
+---
 
-React (v19)
+## 🛠️ Tech Stack
 
-TypeScript
+### Frontend
+- **React (v19)**
+- **TypeScript**
+- **Vite**
 
-Vite
+### Libraries
+- **Recharts** – Data visualization and analytics dashboards
+- **Lucide React** – Modern and customizable icon library
 
-Libraries
+### Tooling
+- **pnpm** – Package manager
+- **Git & GitHub** – Version control and collaboration
 
-Recharts – Data visualization and dashboards
+---
 
-Lucide React – Modern icon library
-
-Tooling
-
-pnpm – Package manager
-
-Git & GitHub – Version control
-
-📂 Project Structure
+## 📂 Project Structure
 Food4All
 │
-├── components/        # Reusable UI components
-├── pages/             # Application pages
-├── dashboards/        # Analytics dashboards
-├── context/           # React Context API (AppContext)
-├── mockData.ts        # Sample data for development
-├── public/            # Static assets
-└── src/               # Main application source code
-⚙️ Installation & Setup
+├── components/ # Reusable UI components
+├── pages/ # Application pages
+├── dashboards/ # Analytics dashboards
+├── context/ # React Context API (AppContext)
+├── mockData.ts # Mock data for development
+├── public/ # Static assets
+└── src/ # Main application source code
 
-Clone the repository:
 
-git clone https://github.com/yourusername/Food4All.git
+---
 
-Navigate to the project directory:
+## ⚙️ Installation & Setup
 
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/niiiizzz/Food4All.git
+
+2️⃣ Navigate to the project folder
 cd Food4All
-
-Install dependencies:
-
+3️⃣ Install dependencies
 pnpm install
-
-Run the development server:
-
+4️⃣ Run the development server
 pnpm run dev
 
-The application will start on:
+The application will start at:
 
 http://localhost:5173
 🎯 Project Goal
@@ -80,7 +79,7 @@ Food4All aims to:
 
 Reduce food waste from restaurants
 
-Support communities and animal shelters
+Support NGOs and animal shelters
 
 Encourage sustainable food distribution
 
@@ -88,7 +87,7 @@ Contribute to a cleaner and greener environment
 
 🌍 Sustainable Development Goals
 
-This project contributes to:
+This project contributes to the following UN SDGs:
 
 SDG 2 – Zero Hunger
 
@@ -98,4 +97,4 @@ SDG 13 – Climate Action
 
 👨‍💻 Author
 
-Developed by Nishant Gurung
+Developed by Your Name
